@@ -1,0 +1,9 @@
+D:\onu\algoritm\Suftree\Suftree\bin\Debug\Suftree.exe.config
+D:\onu\algoritm\Suftree\Suftree\bin\Debug\Suftree.exe
+D:\onu\algoritm\Suftree\Suftree\bin\Debug\Suftree.pdb
+D:\onu\algoritm\Suftree\Suftree\obj\Debug\Suftree.csprojResolveAssemblyReference.cache
+D:\onu\algoritm\Suftree\Suftree\obj\Debug\Suftree.Form1.resources
+D:\onu\algoritm\Suftree\Suftree\obj\Debug\Suftree.Properties.Resources.resources
+D:\onu\algoritm\Suftree\Suftree\obj\Debug\Suftree.csproj.GenerateResource.Cache
+D:\onu\algoritm\Suftree\Suftree\obj\Debug\Suftree.exe
+D:\onu\algoritm\Suftree\Suftree\obj\Debug\Suftree.pdb
